@@ -1,0 +1,20 @@
+{
+  "name": "devops-foundation",
+  "version": "1.0.0",
+  "description": "DevOps, Version Control, Git, CI/CD, Containers, Configuration Management, Monitoring, Logging, Cloud Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erangamadhushan/DevOps-Foundation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erangamadhushan/DevOps-Foundation/issues"
+  },
+  "homepage": "https://github.com/Erangamadhushan/DevOps-Foundation#readme"
+}
